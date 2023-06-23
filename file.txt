@@ -1,0 +1,18 @@
+The thumb rule for automation is always"if you want to automate something make sure you know how to
+do it manually"
+
+Requirements
+1. A 64 bit computer
+2. Any operating system ie Linux,windows etc
+
+First you need to:
+- Enable Virtualization in the BIOS(while rebooting hit F2,F12,delete or escape based on your computer
+model)
+
+
+Prerequisities for Ubuntu
+$ sudo apt update
+$ sudo apt install virtualbox
+
+
+
